@@ -4,9 +4,6 @@
 
 Olá, meu nome é **Wanderson Gonçalves Soares Ferreira**, tenho 24 anos e sou natural de Minas Gerais. Concluí o ensino médio na E.E. Maria de Salles Ferreira e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonado por tecnologia e estou sempre aprimorando minhas habilidades. No momento, minha linguagem de programação preferida é Java (rsrs). Reconheço que ainda tenho um longo caminho pela frente, mas meu sonho é trabalhar como desenvolvedor em uma empresa de grande porte.
 
----
-
-## 🌎 Minhas Redes
 
 <div align="center">
 
@@ -17,10 +14,12 @@ Olá, meu nome é **Wanderson Gonçalves Soares Ferreira**, tenho 24 anos e sou 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/w.soares.ferreira/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
 
 </div>
+
 
 ---
 
@@ -29,7 +28,9 @@ Olá, meu nome é **Wanderson Gonçalves Soares Ferreira**, tenho 24 anos e sou 
 <div align="center">
   
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="30"/>
+  </a>
+
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
@@ -57,5 +58,3 @@ Olá, meu nome é **Wanderson Gonçalves Soares Ferreira**, tenho 24 anos e sou 
   </a>
 
 </div>
-
----
